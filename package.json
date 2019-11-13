@@ -1,0 +1,15 @@
+{
+    "name": "my-test-project",
+    "version": "0.0.1",
+    "author": {
+        "name": "gowrisankar"
+    },
+    "description": "My first socket.io App",
+    "dependencies": {
+        "express": "^4.15.2",
+        "socket.io": "^2.3.0"
+    },
+    "scripts": {
+        "start": "node vueIndex.js"
+    }
+}

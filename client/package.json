@@ -1,0 +1,12 @@
+{
+    "name": "client",
+    "version": "1.0.0",
+    "description": "Practice",
+    "main": "vueIndex.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node vueIndex.js"
+    },
+    "author": "Gowrisankar",
+    "license": "ISC"
+}
